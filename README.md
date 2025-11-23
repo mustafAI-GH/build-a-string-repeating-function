@@ -1,1 +1,6 @@
-# build-a-string-repeating-function
+## 🧠 About This Project
+
+I created this project as part of the [FreeCodeCamp](https://www.freecodecamp.org) program — **Build a String Repeating Function**. 
+I used JavaScript to complete it.
+
+Next step.. ⏳
